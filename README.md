@@ -1,5 +1,7 @@
-# hexagon
+![alt tag](https://github.com/bobjamin/hexagon/blob/master/logo.png)
+# hexagon 
 Continuously Integrate and Deliver Software
+
 Most of the hexagon ecosystem will exist in its own repo, those parts are listed here:
 * Local Development with Vagrant: https://github.com/bobjamin/hexagon-local-vagrant
 * Agent: https://github.com/bobjamin/hexagon-agent
