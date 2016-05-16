@@ -1,4 +1,4 @@
-![alt tag](https://github.com/bobjamin/hexagon/blob/master/logo.png)
+![alt tag](https://github.com/bobjamin/hexagon/blob/master/logo%20with%20hexagons.png)
 # hexagon 
 Continuously Integrate and Deliver Software
 
