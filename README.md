@@ -3,6 +3,7 @@
 Continuously Integrate and Deliver Software
 
 Most of the hexagon ecosystem will exist in its own repo, those parts are listed here:
+* Web UI: https://github.com/bobjamin/hexagon-web-ui
 * Local Development with Vagrant: https://github.com/bobjamin/hexagon-local-vagrant
 * Agent: https://github.com/bobjamin/hexagon-agent
 * Git Cloner: https://github.com/bobjamin/hexagon-git-cloner
